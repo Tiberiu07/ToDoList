@@ -15,11 +15,8 @@ Manage your daily tasks using this simple web app
 
 ## Demo Photos
 
-<img src="demoPhotos/demo1.png" width="100">
-<img src="demoPhotos/demo2.png" width="100">
-<img src="demoPhotos/demo3.png" width="100">
+<img src="demoPhotos/demo1.png" width="300">
+<img src="demoPhotos/demo2.png" width="300">
+<img src="demoPhotos/demo3.png" width="300">
 
-![](demoPhotos/demo1.png)
-![](demoPhotos/demo2.png)
-![](demoPhotos/demo3.png)
 
