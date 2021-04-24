@@ -16,14 +16,10 @@ Manage your daily tasks using this simple web app
 ## Demo Photos
 
 
-<p align="center">
-  <img src="demoPhotos/demo1.png" width="500">
-</p>
-<p align="center">
-  <img src="demoPhotos/demo2.png" width="500">
-  </p>
-  <p align="center">
-  <img src="demoPhotos/demo3.png" width="500">
-  </p>
+
+  <img src="demoPhotos/demo1.png" width="600">
+  <img src="demoPhotos/demo2.png" width="600">
+  <img src="demoPhotos/demo3.png" width="600">
+
 
 
